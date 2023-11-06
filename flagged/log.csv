@@ -1,0 +1,3 @@
+Sexo,Tipo de Paciente,Intubado,Neumonía,Edad,Embarazo,Diabetes,EPOC,Asma,Inmunosupresión,Hipertensión,Otra Comorbilidad,Cardiovascular,Obesidad,Enfermedad Renal Crónica,Tabaquismo,Contacto con otro caso,Toma de muestra de laboratorio,Resultado de laboratorio,Toma de muestra de antígeno,Resultado de antígeno,UCI,Días de Hospitalización,Días con Síntomas,Predicción,flag,username,timestamp
+1,1,97,1,30,98,98,,,1,,,,,,,,,,,,,0,0,"0    3
+dtype: int32",,,2023-11-06 01:21:52.999633
