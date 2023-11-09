@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 COVID19MEXICO.csv
 datos_abiertos_covid19.zip
+datos_abiertos_covid19.zip.1
+datos_abiertos_covid19.zip.2
